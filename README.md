@@ -9,6 +9,8 @@ my name is  ✨**park seong jun**✨
 ## Career
 Not yet but will be amazing👑
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psj-1228&show_icons=true&theme=radical)
+
 ## Education
 learning in *Yeungnam University(YU)*
 
@@ -18,7 +20,6 @@ learning in *Yeungnam University(YU)*
 ## Contact
 📫seongjun1228@gmail.com
 📫22212069@yu.ac.kr
-
 <!--
 **psj-1228/psj-1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
